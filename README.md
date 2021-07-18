@@ -1,1 +1,1 @@
-# Ruqqaya-Quizgame
+# My-quiz-game
